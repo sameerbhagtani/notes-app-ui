@@ -16,6 +16,8 @@ This project is part of my [ChaiCode Mobile Dev Cohort 1 Archive](https://github
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/7191d482-eccc-459a-8dd4-2aa4efd59a8b
+
 ---
 
 ## Local Setup Instructions
